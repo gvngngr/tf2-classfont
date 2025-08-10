@@ -19,6 +19,7 @@ List of classes available:
 | Spy  | 1f4e6  | 📦  |
 | Demo  | 1f4a3  | 💣  |
 | Engineer  | 1f527  | 🔧  |
+| Civilian  | 1f528  | 🔨  |
 | FlankSoldier  | 1f400  | 🐀  |
 | PocketSoldier  | 1f418  | 🐘  |
 | FlankScout  | 1f43f  |  🐿 |
