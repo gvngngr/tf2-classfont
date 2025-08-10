@@ -61,6 +61,9 @@ i, .icomoon-liga {
 .tf2-Engineer:before {
   content: "\1f527";
 }
+.tf2-Civilian:before {
+  content: "\1f528";
+}
 .tf2-FlankSoldier:before {
   content: "\1f400";
 }
